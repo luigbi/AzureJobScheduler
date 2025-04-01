@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureJobScheduler", "AzureJobScheduler.csproj", "{7901ABE9-3743-46D7-AB62-7A0F01070852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7901ABE9-3743-46D7-AB62-7A0F01070852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7901ABE9-3743-46D7-AB62-7A0F01070852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7901ABE9-3743-46D7-AB62-7A0F01070852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7901ABE9-3743-46D7-AB62-7A0F01070852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0D350B0-3DCA-4D9D-9717-3B25DC102613}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://wintechllc.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AzureJobScheduler.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
