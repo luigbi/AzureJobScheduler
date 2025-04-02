@@ -14,7 +14,7 @@ A .NET-based scheduler using Quartz.NET, designed to run as a continuous Azure W
 3. Build and deploy as an Azure WebJob.
 
 ## Learn More
-Check out the full article on LinkedIn: [link-to-your-article]
+Check out the full article on dev.to: https://dev.to/luigbi/job-scheduler-with-quartznet-and-azure-webjobs-2dne
 
 ## License
 MIT License
